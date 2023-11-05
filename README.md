@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadAbdElhameed
-- 👀 I’m interested in Web development and Machine Learning
-- 🌱 I’m currently learning Web Development
+- 👀 Software engineer
+- 🌱 Machine Learning Researcher
 - 📫 How to reach me (abdelhameed9@yahoo.com)
  <!---
 - 💞️ I’m looking to collaborate on ...
