@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AhmadAbdElhameed
-- 👀 Software engineer
+- 👀 Software engineer @ Titan Tech
 - 🌱 Machine Learning Researcher
 - 📫 How to reach me (abdelhameed9@yahoo.com)
+- 👀 I'm Looking forward to new role as backend enginer 
  <!---
 - 💞️ I’m looking to collaborate on ...
  ...
